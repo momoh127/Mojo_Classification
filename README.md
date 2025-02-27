@@ -1,6 +1,6 @@
 # Real-Time Image Classification with Mojo
 
-This project demonstrates real-time image classification using Mojo, a high-performance programming language for AI/ML. The system captures images from a webcam, preprocesses them, and performs inference using a pre-trained ResNet model.
+This project demonstrates real-time image classification using Mojo. The system captures images from a webcam, preprocesses them, and performs inference using a pre-trained ResNet model.
 
 ## Features
 - Real-time image capture and classification.
